@@ -1,0 +1,77 @@
+html {
+    background:black;
+}
+
+
+body {
+    margin: auto;
+    padding: 0;
+    width: 80%;
+    background: white;
+    
+}
+header {
+    overflow: hidden;
+    background: #edededed;
+    padding: 20px;
+    
+
+}
+.hl {
+    float: left;
+    margin-top: 20px;
+    
+
+}
+.hi {
+    float: left;
+    
+    
+
+}
+img {
+    width: 100px;
+    border-radius: 50%;
+}
+.name {
+    float: left;
+    margin-left: 20px;
+
+}
+
+.hr {
+    float: right;
+    padding-right: 30px;
+
+
+}
+
+.content {
+    padding: 20px;
+
+}
+.row {
+    overflow: hidden;
+    margin-top: 20px;
+    border-bottom: 2px solid rgb(231, 227, 227);
+}
+.row:last-child {
+    border: none;
+}
+.col-l{
+    float: left;
+    font-style: italic;
+    width: 25%;
+
+}
+.col-r{
+    float: right;
+    width: 72%;
+    margin-right: 3%;
+
+}
+.same {
+    float: right;
+    width: 33%;
+
+}
